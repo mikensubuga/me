@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import About from '../UI/About'
-import Introduction from '../UI/Introduction'
 import Projects from '../UI/Projects'
 import Timeline from '../UI/Timeline'
 import Sidebar from '../UI/Sidebar'
@@ -14,7 +13,6 @@ class Layout extends Component {
                     <Sidebar/>
                     <div id="colorlib-main">
                         <About/>
-                        <Introduction/>
                         <Projects/>
                         <Timeline/>
                     </div>
