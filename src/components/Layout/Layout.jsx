@@ -9,7 +9,6 @@ class Layout extends Component {
                 <Main/>
                 Layout
                 About
-                Blog
                 Introduction
                 Projects
                 Sidebar
