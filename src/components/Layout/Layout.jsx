@@ -1,5 +1,10 @@
 import React, { Component } from 'react';
 import Main from '../Main/Main'
+import About from '../UI/About'
+import Introduction from '../UI/Introduction'
+import Projects from '../UI/Projects'
+import Timeline from '../UI/Timeline'
+import Sidebar from '../UI/Sidebar'
 
 class Layout extends Component {
     state = {  }
@@ -8,11 +13,11 @@ class Layout extends Component {
             <div>
                 <Main/>
                 Layout
-                About
-                Introduction
-                Projects
-                Sidebar
-                Timeline
+                <About/>
+                <Introduction/>
+                <Projects/>
+                <Sidebar/>
+                <Timeline/>
             </div>
          );
     }
