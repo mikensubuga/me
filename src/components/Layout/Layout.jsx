@@ -9,12 +9,17 @@ class Layout extends Component {
     state = {  }
     render() { 
         return ( 
-            <div>
-                <About/>
-                <Introduction/>
-                <Projects/>
-                <Sidebar/>
-                <Timeline/>
+            <div id="colorlib-page">
+                <div id="container-wrap">
+                    <Sidebar/>
+                    <div id="colorlib-main">
+                        <About/>
+                        <Introduction/>
+                        <Projects/>
+                        <Timeline/>
+                    </div>
+                </div>
+               
             </div>
          );
     }
