@@ -27,6 +27,8 @@ const Sidebar = () => {
                 <li><a href="https://github.com/KingMike100" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <li><a href="https://www.linkedin.com/in/mike-nsubuga/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://twitter.com/mikensbg" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
+                <li><a href="https://t.me/mikensbg" target="_blank" rel="noopener noreferrer"><i className="icon-telegram" /></a></li>
+
 
               </ul>
             </nav>
