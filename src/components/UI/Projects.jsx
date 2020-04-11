@@ -15,9 +15,10 @@ class Projects extends Component {
 							</div>
 						</div>
 						<div className="row">
-						<Project/>
-						<Project/>
-                        <Project/>
+                            {this.props.projects.map((project)=>(
+                                <Project id={project.id} project={project}/>
+                            ))}
+                            
 						</div>
 						
 					</div>
