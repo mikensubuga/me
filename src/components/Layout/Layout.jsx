@@ -13,7 +13,7 @@ class Layout extends Component {
         stack: 'Laravel',
         description:
           'A web app to help Stats4SD partners manage & share resources from their Research Studies',
-        backgroundImageURL: 'url(images/img-1.jpg)',
+        imageURL: 'images/img-1.jpg',
       },
       {
         id: 2,
@@ -21,7 +21,7 @@ class Layout extends Component {
         stack: 'VueJs, GCP, Docker',
         description:
           'A web app to help determine the usage of collections & resources on the Stats4SD website',
-        backgroundImageURL: 'url(images/img-2.jpg)',
+        imageURL: 'images/img-2.jpg',
       },
       {
         id: 3,
@@ -29,28 +29,28 @@ class Layout extends Component {
         stack: 'ReactJs, NodeJs',
         description:
           'A web app to solve the problem of appointments scheduling of the different facilities at the ACE',
-        backgroundImageURL: 'url(images/img-3.jpg)',
+        imageURL: 'images/img-3.jpg',
       },
       {
         id: 4,
         title: 'Burger App',
-        stack: 'ReactJs, Firebase',
+        stack: 'ReactJs, Redux, Firebase',
         description: 'Study app from my Udemy React Course. An app to make & manage orders',
-        backgroundImageURL: 'url(images/img-4.jpg)',
+        imageURL: 'images/img-4.jpg',
       },
       {
         id: 5,
         title: 'Get It Done',
         stack: 'Laravel, VueJs',
         description: 'Class project to connect businesses of all sizes to freelancers & professionals',
-        backgroundImageURL: 'url(images/img-5.jpg)',
+        imageURL: 'images/img-5.jpg',
       },
       {
         id: 6,
         title: 'Streamy',
-        stack: 'ReactJs, OBS',
+        stack: 'ReactJs, Redux, OBS',
         description: 'Study app from another Udemy React course that broadcasts streaming like Twitch',
-        backgroundImageURL: 'url(images/img-6.jpg)',
+        imageURL: 'images/img-6.jpg',
       },
     ],
   };

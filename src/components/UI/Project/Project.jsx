@@ -1,6 +1,6 @@
 import React from 'react';
 const Project = (props) => {
-  const { title, description, stack, backgroundImageURL } = props.project;
+  const { title, description, stack, imageURL } = props.project;
   const width = 14;
   return (
     <>
@@ -11,8 +11,10 @@ const Project = (props) => {
           </h5>
           <img
             className="card-img-top"
-            src="https://source.unsplash.com/random/250x180"
+            src={imageURL}
             alt="Card image cap"
+            width="250"
+            height="180"
           />
           <div className="card-body">
             <p className="card-text">{description}</p>

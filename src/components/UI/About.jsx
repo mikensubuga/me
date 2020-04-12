@@ -55,7 +55,7 @@ const About = () => {
                 </span>
                 <div className="desc">
                     <h3>PHP</h3>
-                    <p>Laravel</p>
+                    <p>Laravel, Wordpress</p>
                 </div>
                 </div>
             </div>
