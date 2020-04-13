@@ -17,7 +17,7 @@ const Project = (props) => {
           />
           <div className="card-body">
             <p className="card-text">{description}</p>
-            <a href="#" class="btn btn-primary btn-sm">
+            <a href="#" class="btn btn-danger btn-sm">
               View
             </a>
             <span className="badge badge-primary pull-right">{stack}</span>

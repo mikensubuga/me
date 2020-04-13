@@ -98,14 +98,8 @@ const Sidebar = () => {
           <div className="colorlib-footer">
             <p>
               <small>
-                Inspiration from{' '}
-                <a
-                  href="https://colorlib.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Colorlib
-                </a>
+                All Rights Reserved | &copy;2020
+                
               </small>
             </p>
           </div>

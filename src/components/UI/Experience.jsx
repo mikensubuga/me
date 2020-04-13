@@ -22,7 +22,7 @@ const Experience = () => {
                   data-animate-effect="fadeInLeft"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-3">
+                    <div className="timeline-icon color-6">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
@@ -68,7 +68,7 @@ const Experience = () => {
                   data-animate-effect="fadeInTop"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-4">
+                    <div className="timeline-icon color-6">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
@@ -111,7 +111,7 @@ const Experience = () => {
                   data-animate-effect="fadeInLeft"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-5">
+                    <div className="timeline-icon color-6">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
@@ -148,7 +148,7 @@ const Experience = () => {
                   data-animate-effect="fadeInLeft"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-5">
+                    <div className="timeline-icon color-6">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
