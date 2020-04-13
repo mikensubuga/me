@@ -15,6 +15,7 @@ class Layout extends Component {
         description:
           'A web app to help Stats4SD partners manage & share resources from their Research Studies',
         imageURL: 'images/img-1.jpg',
+        projectURL: 'https://github.com/stats4sd/rmsystem'
       },
       {
         id: 2,
@@ -23,6 +24,7 @@ class Layout extends Component {
         description:
           'A web app to help determine the usage of collections & resources on the Stats4SD website',
         imageURL: 'images/img-2.jpg',
+        projectURL: 'https://stats4sd-resources-report.netlify.com/'
       },
       {
         id: 3,
@@ -31,6 +33,7 @@ class Layout extends Component {
         description:
           'A web app to solve the problem of appointments scheduling of the different facilities at the ACE',
         imageURL: 'images/img-3.jpg',
+        projectURL: 'https://aceuganda.github.io/ace-appointment-scheduler/'
       },
       {
         id: 4,
@@ -39,6 +42,8 @@ class Layout extends Component {
         description:
           'Study app from my Udemy React Course. An app to make & manage orders',
         imageURL: 'images/img-4.jpg',
+        projectURL: 'https://bgr-app.herokuapp.com/'
+       
       },
       {
         id: 5,
@@ -47,6 +52,7 @@ class Layout extends Component {
         description:
           'Class project to connect businesses of all sizes to freelancers & professionals',
         imageURL: 'images/img-5.jpg',
+        projectURL: 'https://github.com/KingMike100/getit'
       },
       {
         id: 6,
@@ -55,6 +61,7 @@ class Layout extends Component {
         description:
           'Study app from another Udemy React course that broadcasts streaming like Twitch',
         imageURL: 'images/img-6.jpg',
+        projectURL: 'https://github.com/KingMike100/Streamy'
       },
     ],
   };

@@ -1,6 +1,6 @@
 import React from 'react';
 const Project = (props) => {
-  const { title, description, stack, imageURL } = props.project;
+  const { title, description, stack, imageURL, projectURL } = props.project;
   return (
     <>
       <div className="col-md-4">
@@ -17,7 +17,7 @@ const Project = (props) => {
           />
           <div className="card-body">
             <p className="card-text">{description}</p>
-            <a href="#" class="btn btn-danger btn-sm">
+            <a href={projectURL} class="btn btn-danger btn-sm">
               View
             </a>
             <span className="badge badge-primary pull-right">{stack}</span>
