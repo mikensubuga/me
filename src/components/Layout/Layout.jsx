@@ -3,6 +3,7 @@ import About from '../UI/About';
 import Projects from '../UI/Projects';
 import Timeline from '../UI/Timeline';
 import Sidebar from '../UI/Sidebar';
+import Skills from '../UI/Skills';
 
 class Layout extends Component {
   state = {
@@ -35,21 +36,24 @@ class Layout extends Component {
         id: 4,
         title: 'Burger App',
         stack: 'ReactJs, Redux, Firebase',
-        description: 'Study app from my Udemy React Course. An app to make & manage orders',
+        description:
+          'Study app from my Udemy React Course. An app to make & manage orders',
         imageURL: 'images/img-4.jpg',
       },
       {
         id: 5,
         title: 'Get It Done',
         stack: 'Laravel, VueJs',
-        description: 'Class project to connect businesses of all sizes to freelancers & professionals',
+        description:
+          'Class project to connect businesses of all sizes to freelancers & professionals',
         imageURL: 'images/img-5.jpg',
       },
       {
         id: 6,
         title: 'Streamy',
         stack: 'ReactJs, Redux, OBS',
-        description: 'Study app from another Udemy React course that broadcasts streaming like Twitch',
+        description:
+          'Study app from another Udemy React course that broadcasts streaming like Twitch',
         imageURL: 'images/img-6.jpg',
       },
     ],
@@ -62,6 +66,8 @@ class Layout extends Component {
           <div id="colorlib-main">
             <About />
             <Projects projects={this.state.projects} />
+            <Skills />
+
             <Timeline />
           </div>
         </div>
