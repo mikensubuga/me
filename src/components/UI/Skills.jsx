@@ -59,7 +59,7 @@ const Skills = () => {
                   <div className="desc">
                     <h3>Google Cloud Platform</h3>
                     <p>
-                      Compute Engine,Containers(Docker & Kuberenetes, Cloud Run,
+                      GCE,Docker & K8s, Cloud Run,
                       Firebase{' '}
                     </p>
                   </div>
@@ -83,7 +83,7 @@ const Skills = () => {
                   </span>
                   <div className="desc">
                     <h3>Github & Git</h3>
-                    <p> </p>
+                    <p> Collaboration </p>
                   </div>
                 </div>
               </div>

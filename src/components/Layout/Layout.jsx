@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import About from '../UI/About';
 import Projects from '../UI/Projects';
-import Timeline from '../UI/Timeline';
+import Timeline from '../UI/Experience';
 import Sidebar from '../UI/Sidebar';
 import Skills from '../UI/Skills';
 

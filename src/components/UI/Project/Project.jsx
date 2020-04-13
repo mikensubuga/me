@@ -1,7 +1,6 @@
 import React from 'react';
 const Project = (props) => {
   const { title, description, stack, imageURL } = props.project;
-  const width = 14;
   return (
     <>
       <div className="col-md-4">

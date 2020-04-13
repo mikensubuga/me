@@ -48,8 +48,8 @@ const Sidebar = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#timeline" data-nav-section="timeline">
-                    Timeline
+                  <a href="#experience" data-nav-section="experience">
+                    Experience
                   </a>
                 </li>
               </ul>
