@@ -36,6 +36,11 @@ const Experience = () => {
                           Infectious Diseases Institute(IDI) - Makerere
                           University
                         </span>
+                        <br />
+                        <span>
+                          African Center of Excellence in Bioinformatics & Data
+                          Intensive Sciences(ACE)
+                        </span>
                       </a>
                       <br />
                       <br />
@@ -68,8 +73,8 @@ const Experience = () => {
                   data-animate-effect="fadeInTop"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-6">
-                      <i className="icon-pen2" />
+                    <div className="timeline-icon">
+                      <img src="/images/stats4sd.png" alt="Stats4SD Logo"></img>
                     </div>
                     <div className="timeline-label">
                       <h2>
