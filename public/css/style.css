@@ -684,19 +684,17 @@ body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon {
   display: block;
-  width: 40px;
-  height: 40px;
-  background: #c50511;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+ 
   text-align: center;
-  -moz-box-shadow: 0 0 0 5px #f2f3f7;
-  -webkit-box-shadow: 0 0 0 5px #f2f3f7;
-  box-shadow: 0 0 0 5px #f2f3f7;
+
   line-height: 40px;
   float: left;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon img {
+  width: 50px;
+  height: 50px;
 }
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
   color: #fff;

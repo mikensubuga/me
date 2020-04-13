@@ -5,9 +5,9 @@ const Project = (props) => {
     <>
       <div className="col-md-4">
         <div className="services">
-          <h5>
-            <b>{title}</b>
-          </h5>
+          <h3>
+            {title}
+          </h3>
           <img
             className="card-img-top"
             src={imageURL}
