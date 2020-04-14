@@ -2,7 +2,11 @@ import React from 'react';
 const About = () => {
   return (
     <div>
-      <section id="colorlib-hero" className="js-fullheight" data-section="about">
+      <section
+        id="colorlib-hero"
+        className="js-fullheight"
+        data-section="about"
+      >
         <div className="flexslider js-fullheight">
           <ul className="slides">
             <li style={{ backgroundImage: 'url(images/floppy-low.jpg)' }}>

@@ -38,7 +38,7 @@ const Sidebar = () => {
                 </li>
 
                 <li>
-                  <a href="#" data-nav-section="projects">
+                  <a href="#projects" data-nav-section="projects">
                     Projects
                   </a>
                 </li>

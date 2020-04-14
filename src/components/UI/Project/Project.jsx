@@ -5,19 +5,17 @@ const Project = (props) => {
     <>
       <div className="col-md-4">
         <div className="services">
-          <h3>
-            {title}
-          </h3>
+          <h3>{title}</h3>
           <img
             className="card-img-top"
             src={imageURL}
-            alt="Card image cap"
+            alt="Card"
             width="250"
             height="180"
           />
           <div className="card-body">
             <p className="card-text">{description}</p>
-            <a href={projectURL} class="btn btn-danger btn-sm">
+            <a href={projectURL} className="btn btn-danger btn-sm">
               View
             </a>
             <span className="badge badge-primary pull-right">{stack}</span>

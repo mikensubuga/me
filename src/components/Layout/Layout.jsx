@@ -13,9 +13,9 @@ class Layout extends Component {
         title: 'RMS System',
         stack: 'Laravel',
         description:
-          'A web app to help Stats4SD partners manage & share resources from their Research Studies',
+          'A web app to help Stats4SD partners manage & share resources from Research Studies',
         imageURL: 'images/rms.png',
-        projectURL: 'https://github.com/stats4sd/rmsystem'
+        projectURL: 'https://github.com/stats4sd/rmsystem',
       },
       {
         id: 2,
@@ -24,7 +24,7 @@ class Layout extends Component {
         description:
           'A web app to help determine the usage of collections & resources on the Stats4SD website',
         imageURL: 'images/resources.png',
-        projectURL: 'https://stats4sd-resources-report.netlify.com/'
+        projectURL: 'https://stats4sd-resources-report.netlify.com/',
       },
       {
         id: 3,
@@ -33,7 +33,7 @@ class Layout extends Component {
         description:
           'A web app to solve the problem of appointments scheduling of the different facilities at the ACE',
         imageURL: 'images/ace.png',
-        projectURL: 'https://aceuganda.github.io/ace-appointment-scheduler/'
+        projectURL: 'https://aceuganda.github.io/ace-appointment-scheduler/',
       },
       {
         id: 4,
@@ -42,8 +42,7 @@ class Layout extends Component {
         description:
           'Study app from my Udemy React Course. An app to make & manage orders',
         imageURL: 'images/burger.png',
-        projectURL: 'https://bgr-app.herokuapp.com/'
-       
+        projectURL: 'https://bgr-app.herokuapp.com/',
       },
       {
         id: 5,
@@ -52,7 +51,7 @@ class Layout extends Component {
         description:
           'Class project to connect businesses of all sizes to freelancers & professionals',
         imageURL: 'images/gtd.png',
-        projectURL: 'https://github.com/KingMike100/getit'
+        projectURL: 'https://github.com/KingMike100/getit',
       },
       {
         id: 6,
@@ -61,7 +60,7 @@ class Layout extends Component {
         description:
           'Study app from another Udemy React course that broadcasts streaming like Twitch',
         imageURL: 'images/streams.png',
-        projectURL: 'https://github.com/KingMike100/Streamy'
+        projectURL: 'https://github.com/KingMike100/Streamy',
       },
     ],
   };

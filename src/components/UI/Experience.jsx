@@ -30,7 +30,7 @@ const Experience = () => {
                         IT & Software Development Operations{' '}
                         <span>June 2019 - Present</span>
                       </h2>
-                      <a>
+                      <a href="https://idi.mak.ac.ug/" target="_blank" rel="noreferrer noopener">
                         {' '}
                         <span>
                           Infectious Diseases Institute(IDI) - Makerere
@@ -44,27 +44,26 @@ const Experience = () => {
                       </a>
                       <br />
                       <br />
-                      <p>
-                        <ul>
-                          <li>
-                            Virtual Reality and Augmented Reality Optimization
-                            through VR/AR medical applications development.
-                          </li>
-                          <li>
-                            Monitoring, Administering and Troubleshooting
-                            Ethernet/IP LAN/WAN environments.
-                          </li>
-                          <li>
-                            Manage the deployment, maintenance and operations of
-                            IT Systems
-                          </li>
-                          <li>System administration and Server management.</li>
-                          <li>
-                            Manage ACE’s online presence and communication
-                            portals.
-                          </li>
-                        </ul>
-                      </p>
+
+                      <ul>
+                        <li>
+                          Virtual Reality and Augmented Reality Optimization
+                          through VR/AR medical applications development.
+                        </li>
+                        <li>
+                          Monitoring, Administering and Troubleshooting
+                          Ethernet/IP LAN/WAN environments.
+                        </li>
+                        <li>
+                          Manage the deployment, maintenance and operations of
+                          IT Systems
+                        </li>
+                        <li>System administration and Server management.</li>
+                        <li>
+                          Manage ACE’s online presence and communication
+                          portals.
+                        </li>
+                      </ul>
                     </div>
                   </div>
                 </article>
@@ -81,7 +80,8 @@ const Experience = () => {
                         Fullstack Developer Intern{' '}
                         <span>January 2020 - April 2020</span>
                       </h2>
-                      <a>
+                      <a href="https://stats4sd.org/" target="_blank" rel="noreferrer noopener">
+
                         {' '}
                         <span>
                           Statistics for Sustainable Development(Stats4SD) -
@@ -90,24 +90,21 @@ const Experience = () => {
                       </a>
                       <br />
                       <br />
-                      <p>
-                        <ul>
-                          <li>
-                            Led the development of Resources Report application
-                            in VueJs supporting the analytics of the Stats4SD
-                            site
-                          </li>
-                          <li>
-                            Led the development of Research Management System in
-                            Laravel, supporting Stats4SD's partners worldwide to
-                            manage research collections.
-                          </li>
-                          <li>
-                            Deployed several apps towards the cloud(Google Cloud
-                            Platform)
-                          </li>
-                        </ul>
-                      </p>
+                      <ul>
+                        <li>
+                          Led the development of Resources Report application in
+                          VueJs supporting the analytics of the Stats4SD site
+                        </li>
+                        <li>
+                          Led the development of Research Management System in
+                          Laravel, supporting Stats4SD's partners worldwide to
+                          manage research collections.
+                        </li>
+                        <li>
+                          Deployed several apps towards the cloud(Google Cloud
+                          Platform)
+                        </li>
+                      </ul>
                     </div>
                   </div>
                 </article>
@@ -124,7 +121,7 @@ const Experience = () => {
                         IT Specialist(Volunteer){' '}
                         <span>June 2018 - May 2019</span>
                       </h2>
-                      <a>
+                      <a href="https://cis.mak.ac.ug/" target="_blank" rel="noreferrer noopener">
                         {' '}
                         <span>
                           College of Computing & Informational Sciences(COCIS) -
@@ -133,18 +130,16 @@ const Experience = () => {
                       </a>
                       <br />
                       <br />
-                      <p>
-                        <ul>
-                          <li>
-                            Provided ICT support services to students and
-                            instructors at the College of Computing(COCIS).
-                          </li>
-                          <li>
-                            Managed administraion of the College Linux Servers.
-                          </li>
-                          <li>Network administration (CISCO)</li>
-                        </ul>
-                      </p>
+                      <ul>
+                        <li>
+                          Provided ICT support services to students and
+                          instructors at the College of Computing(COCIS).
+                        </li>
+                        <li>
+                          Managed administraion of the College Linux Servers.
+                        </li>
+                        <li>Network administration (CISCO)</li>
+                      </ul>
                     </div>
                   </div>
                 </article>
@@ -161,7 +156,7 @@ const Experience = () => {
                         Programming Tutorial Assistant (Volunteer){' '}
                         <span>January 2019 - January 2020</span>
                       </h2>
-                      <a>
+                      <a href="https://cis.mak.ac.ug/" target="_blank" rel="noreferrer noopener">
                         {' '}
                         <span>
                           College of Computing & Informational Sciences(COCIS) -
@@ -170,19 +165,17 @@ const Experience = () => {
                       </a>
                       <br />
                       <br />
-                      <p>
-                        <ul>
-                          <li>
-                            Assisted undergraduate students with problems in C
-                            and Java programming courses.
-                          </li>
-                          <li>
-                            Assisted the Senior lecturer in delivering C and
-                            Java programming practical classes to undergraduate
-                            students.
-                          </li>
-                        </ul>
-                      </p>
+                      <ul>
+                        <li>
+                          Assisted undergraduate students with problems in C and
+                          Java programming courses.
+                        </li>
+                        <li>
+                          Assisted the Senior lecturer in delivering C and Java
+                          programming practical classes to undergraduate
+                          students.
+                        </li>
+                      </ul>
                     </div>
                   </div>
                 </article>
