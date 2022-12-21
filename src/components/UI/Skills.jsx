@@ -24,9 +24,10 @@ const Skills = () => {
                   </span>
                   <div className="desc">
                     <h3>Javascript</h3>
-                    <p>ReactJs, VueJs & NodeJs</p>
+                    <p>ReactJs, NextJs, AngularJs & NodeJs</p>
                   </div>
                 </div>
+                
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
