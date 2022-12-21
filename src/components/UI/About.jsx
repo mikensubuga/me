@@ -20,7 +20,7 @@ const About = () => {
                           Hi! <br />
                           I'm Mike
                         </h1>
-                        I am a Fullstack Developer
+                        I am a Software Developer and Bioinformatics Scientist
                         <p>
                           <a
                             className="btn btn-primary btn-learn"
